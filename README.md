@@ -1,7 +1,7 @@
 # SEEnema
+React + Springboot
 
-React, Figma, Spring 
-
+Figma : https://www.figma.com/file/MAlGkyCr3iRcQjyCfErseu/SEE-NEMA?node-id=25%3A125&t=cb4RbSyfEexFJ4F4-0
 
 ### About SEEnema
 -----------------
